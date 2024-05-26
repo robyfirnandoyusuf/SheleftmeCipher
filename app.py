@@ -8,7 +8,7 @@ class SheleftmeApp:
         self.run()
 
     def run(self):
-        st.title('SheleftmeCipher: Hide your love message with invisible Unicode characters. 💔')
+        st.title('SheleftmeCipher: Hide your love message with invisible Unicode characters. \U0001F494')
 
         operation = st.selectbox("Operation:", ["Encode", "Decode"])
 
