@@ -9,11 +9,7 @@ This project demonstrates how to use invisible Unicode characters to perform ste
 
 ## Installation
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
-    ```
+1. Clone the repository
 
 2. Install the required packages:
     ```sh
