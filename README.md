@@ -4,8 +4,8 @@ This project demonstrates how to use invisible Unicode characters to perform ste
 
 ## Project Structure
 
-- `SheleftmeCipher.py`: Contains the `Steganography` class with methods for encoding, decoding, embedding, and extracting messages.
-- `app.py`: Contains the `SteganographyApp` class and runs the Streamlit application.
+- `SheleftmeCipher.py`: Contains the `Sheleftme` class with methods for encoding, decoding, embedding, and extracting messages.
+- `app.py`: Contains the `SheleftmeApp` class and runs the Streamlit application.
 
 ## Installation
 
